@@ -1,0 +1,12 @@
+@import url(./reset.css);
+@import url(./variaveis.css);
+
+@import url(./header.css);
+@import url(./carousel.css);
+@import url(./footer.css);
+
+.protest-strike-regular {
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
